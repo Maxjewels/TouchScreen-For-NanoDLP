@@ -1,12 +1,12 @@
 # NanoDLP-TouchScreen
 Nextion Screen => NodeJS => NanoDLP
-![1.jpg](1.jpg)
-![2.jpg](photo.jpg)
-![3.jpg](photo.jpg)
-![4.jpg](photo.jpg)
-![5.jpg](photo.jpg)
-![6.jpg](photo.jpg)
-![7.jpg](photo.jpg)
+![photo.jpg](1.jpg)
+![photo.jpg](2.jpg)
+![photo.jpg](3.jpg)
+![photo.jpg](4.jpg)
+![photo.jpg](5.jpg)
+![photo.jpg](6.jpg)
+![photo.jpg](7.jpg)
 ## Require 
 
 - NanoDLP installed on a raspbery pi (2, 3, zero,...)
