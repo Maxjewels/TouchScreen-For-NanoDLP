@@ -1,6 +1,6 @@
 # NanoDLP-TouchScreen
 Nextion Screen => NodeJS => NanoDLP
-![1.jpg](photo.jpg)
+![1.jpg](1.jpg)
 ![2.jpg](photo.jpg)
 ![3.jpg](photo.jpg)
 ![4.jpg](photo.jpg)
